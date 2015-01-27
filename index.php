@@ -1,2 +1,2 @@
 <?php
-phpinfor();
+echo infor();
